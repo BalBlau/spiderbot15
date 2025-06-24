@@ -3,7 +3,7 @@ img{
 }
  
 h1{
-   -webkit-text-stroke: 2px white;
+  -webkit-text-stroke: 2px white;
   font-family: "Roboto Slab", serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
@@ -13,7 +13,7 @@ h1{
 }
 
 h2{
-   -webkit-text-stroke: 2px white;
+  -webkit-text-stroke: 2px white;
   font-family: "Roboto Slab", serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
