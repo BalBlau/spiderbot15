@@ -3,6 +3,7 @@ img{
 }
  
 h1{
+  -webkit-text-stroke-color: 3px white;
   font-family: "Roboto Slab", serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
