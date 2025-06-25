@@ -25,3 +25,11 @@ p{
   font-style: normal;
   color: #67d0f0;
 }
+
+.scrolling-text {
+width: 100%;
+overflow: hidden;
+white-space: nowrap;
+box-sizing: border-box;
+animation: scroll 10s linear infinite;
+}
