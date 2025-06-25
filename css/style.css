@@ -22,31 +22,3 @@ p{
   font-style: normal;
   color: #67d0f0;
 }
-
-:root{
-  display:flex;
-  flex-direction:column;
-  align-content:center;
-  justify-content:center;
-  height:100dvh;
-  background:black;
-  font-family:sans-serif;
-  color:white;
-}
-
-.scrolling-text {
-    width: 100%;
-    overflow: hidden;
-    white-space: nowrap;
-    box-sizing: border-box;
-    animation: scroll 15s linear infinite;
-    font-size:clamp(16px,50dvh,220px);
-    white-space:nowrap;
-    width:fit-content;
-    margin: 0 auto;
-  }
-
- @keyframes scroll {
-    0% { transform: translateX(100%); }
-    100% { transform: translateX(-100%); }
-  }
