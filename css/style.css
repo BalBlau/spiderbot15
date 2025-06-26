@@ -6,15 +6,16 @@ body {
 }
 
 img {
-    border: 6px solid #fff;
-    padding: 20px;
-    display: block;
-    margin: 0 auto;
+    padding: 20px; 
+    max-width: 90%;
+    border-radius: 1rem;
+    box-shadow: 0 4px 10px rgba(40, 86, 235, 0.651);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 img:hover {
     transform: scale(1.02);
-    box-shadow: 6px 6px 15px #17197a;
+    box-shadow: 0 6px 20px rgba(40, 86, 235, 0.651);
 }
  
 h1{
