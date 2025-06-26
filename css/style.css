@@ -4,10 +4,11 @@ body {
      background-attachment: fixed;
      background-size: cover;
 }
+
 img {
-    padding: 20px; 
-    margin: 0 auto;
-    max-width: 90%;
+    /*padding: 20px; */
+    /*margin: 0 auto;*/
+    /*max-width: 90%;*/
     border-radius: 1rem;
     box-shadow: 0 4px 10px rgba(40, 86, 235, 0.651);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
