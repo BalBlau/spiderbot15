@@ -6,8 +6,8 @@ body {
 }
 
 img {
-    /*padding: 20px; */
-    /*margin: 0 auto;*/
+    padding: 20px; 
+    margin: 0 auto;
     /*max-width: 90%;*/
     border-radius: 1rem;
     box-shadow: 0 4px 10px rgba(40, 86, 235, 0.651);
