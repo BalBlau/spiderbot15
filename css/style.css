@@ -19,7 +19,7 @@ img {
 img:hover {
     transform: scale(1.02);
     box-shadow: 6px 6px 15px #17197a;
-
+}
  
 h1{
   font-family: "Roboto Slab", serif;
