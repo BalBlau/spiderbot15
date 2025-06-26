@@ -1,6 +1,8 @@
 img{
     padding: 20px;
+    border-image: 6px #fff;
 }
+
 img:hover{
   transform: scale(1.02);
   box-shadow: 6px #17197a;
