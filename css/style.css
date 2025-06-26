@@ -5,6 +5,7 @@ img {
     border-radius: 1rem;
     box-shadow: 0 4px 10px rgba(40, 86, 235, 0.651);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
+    text-align: center;
 }
 
 img:hover {
