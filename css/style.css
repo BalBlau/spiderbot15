@@ -1,3 +1,9 @@
+body {
+     background-image: url(./assets/fondo.jpg);
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-size: cover;
+}
 img {
     padding: 20px; 
     margin: 0 auto;
@@ -17,16 +23,18 @@ h1{
   font-family: "Roboto Slab", serif;
   font-style: normal;
   color: #17197a;
-    
+  text-align: center;
 }
 
 h2{
   font-family: "Roboto Slab", serif;
   font-style: normal;
   color: #62259c;
+  text-align: center;
 }
 p{
   font-family: "Quicksand", sans-serif;
   font-style: normal;
   color: #67d0f0;
+  text-align: ;
 }
