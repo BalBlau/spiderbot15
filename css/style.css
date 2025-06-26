@@ -1,6 +1,7 @@
 img{
     padding: 20px;
     border-image: 6px #fff;
+    align-content: center;
 }
 
 img:hover{
