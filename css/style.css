@@ -1,20 +1,25 @@
-body{
-  background-image: url(./assets/fondo.jpg);
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-}
-img{
-  border: 6px #fff;
-  padding: 20px;
-  display: block;
-  margin: 0 auto;
+body {
+    background-image: url(./assets/fondo.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
-img:hover{
-  transform: scale(1.02);
-  box-shadow: 6px #17197a;
+h1, h2, p {
+    text-align: center;
 }
+
+img {
+    border: 6px solid #fff;
+    padding: 20px;
+    display: block;
+    margin: 0 auto;
+}
+
+img:hover {
+    transform: scale(1.02);
+    box-shadow: 6px 6px 15px #17197a;
+
  
 h1{
   font-family: "Roboto Slab", serif;
