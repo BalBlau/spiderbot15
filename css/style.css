@@ -1,7 +1,14 @@
+body{
+  background-image: url(./assets/fondo.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
 img{
-  border-image: 6px #fff;  
+  border: 6px #fff;
   padding: 20px;
-  align-content: center;
+  display: block;
+  margin: 0 auto;
 }
 
 img:hover{
@@ -11,7 +18,6 @@ img:hover{
  
 h1{
   font-family: "Roboto Slab", serif;
-  font-optical-sizing: auto;
   font-style: normal;
   color: #17197a;
     
@@ -19,13 +25,11 @@ h1{
 
 h2{
   font-family: "Roboto Slab", serif;
-  font-optical-sizing: auto;
   font-style: normal;
   color: #62259c;
 }
 p{
   font-family: "Quicksand", sans-serif;
-  font-optical-sizing: auto;
   font-style: normal;
   color: #67d0f0;
 }
