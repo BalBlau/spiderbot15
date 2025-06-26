@@ -4,7 +4,7 @@ img{
  
 h1{
   font-family: "Roboto Slab", serif;
-  font-optical-sizing: 20px;
+  font-optical-sizing: auto;
   font-style: normal;
   color: #17197a;
     
